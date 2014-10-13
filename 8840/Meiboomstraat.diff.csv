@@ -1,0 +1,4 @@
+lat,lon,addr:street,addr:housenumber,fixme
+50.9606060417,3.0643460571,Meiboomstraat,1,
+50.959080625,3.06101193632,Meiboomstraat,3,
+50.9327793,3.0381064,Meiboomstraat,58,Address present in CRAB but has no position there

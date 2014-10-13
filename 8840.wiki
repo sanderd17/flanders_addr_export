@@ -1,0 +1,256 @@
+== Address import status ==
+
+===1===
+* {{Template:BelgianStreetAddr| name = 14e Liniestraat| codeName = 14eLiniestraat| latmin = 50.9403404311| lonmin = 50.9407810639| latmax = 50.9414408844| lonmax = 3.0708840401| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = 1e Jagersstraat| codeName = 1eJagersstraat| latmin = 50.9410050449| lonmin = 50.9417114108| latmax = 50.9419497778| lonmax = 3.07049109329| number = 8| status = new}}
+
+===A===
+* {{Template:BelgianStreetAddr| name = Aardenplasstraat| codeName = Aardenplasstraat| latmin = 50.9272116399| lonmin = 50.9299016969| latmax = 50.9305503737| lonmax = 3.03683997337| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Akkerstraat| codeName = Akkerstraat| latmin = 50.957710589| lonmin = 50.9586114854| latmax = 50.961534091| lonmax = 3.02052829842| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Albertlaan| codeName = Albertlaan| latmin = 50.978123052| lonmin = 50.9783306277| latmax = 50.9789561009| lonmax = 3.0115483279| number = 14| status = new}}
+* {{Template:BelgianStreetAddr| name = Alidor Lamotestraat| codeName = AlidorLamotestraat| latmin = 50.9695440266| lonmin = 50.9698846012| latmax = 50.9704106826| lonmax = 3.02043858916| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Anjerweg| codeName = Anjerweg| latmin = 50.9734485832| lonmin = 50.9735953723| latmax = 50.9743230193| lonmax = 3.00892494799| number = 11| status = new}}
+* {{Template:BelgianStreetAddr| name = Appelweg| codeName = Appelweg| latmin = 50.9361766845| lonmin = 50.9361968699| latmax = 50.9368565859| lonmax = 3.01674080611| number = 25| status = new}}
+* {{Template:BelgianStreetAddr| name = Astridlaan| codeName = Astridlaan| latmin = 50.9790330355| lonmin = 50.9791564607| latmax = 50.9796570256| lonmax = 3.01591927332| number = 11| status = new}}
+* {{Template:BelgianStreetAddr| name = Azaleaweg| codeName = Azaleaweg| latmin = 50.9747714452| lonmin = 50.9750298871| latmax = 50.9755399105| lonmax = 3.01055064695| number = 21| status = new}}
+
+===B===
+* {{Template:BelgianStreetAddr| name = Basijnsmolenstraat| codeName = Basijnsmolenstraat| latmin = 50.9392941427| lonmin = 50.9407196699| latmax = 50.9411768606| lonmax = 3.05883316795| number = 13| status = new}}
+* {{Template:BelgianStreetAddr| name = Bataviaweg| codeName = Bataviaweg| latmin = 50.9352054828| lonmin = 50.9355329508| latmax = 50.9362620483| lonmax = 3.00686956707| number = 14| status = new}}
+* {{Template:BelgianStreetAddr| name = Bessenweg| codeName = Bessenweg| latmin = 50.9348706603| lonmin = 50.9349328243| latmax = 50.9353997182| lonmax = 3.01572783318| number = 16| status = new}}
+* {{Template:BelgianStreetAddr| name = Bombeekweg| codeName = Bombeekweg| latmin = 50.9442069369| lonmin = 50.9452722234| latmax = 50.9452722234| lonmax = 3.05241595159| number = 5| status = matching}}
+* {{Template:BelgianStreetAddr| name = Bosstraat| codeName = Bosstraat| latmin = 50.9232407617| lonmin = 50.9244207527| latmax = 50.9244207527| lonmax = 3.06349560614| number = 3| status = new}}
+* {{Template:BelgianStreetAddr| name = Boudewijnlaan| codeName = Boudewijnlaan| latmin = 50.9779767508| lonmin = 50.9782339639| latmax = 50.9787767733| lonmax = 3.01495972474| number = 14| status = new}}
+* {{Template:BelgianStreetAddr| name = Braamakkerstraat| codeName = Braamakkerstraat| latmin = 50.9509789345| lonmin = 50.9522798762| latmax = 50.9522798762| lonmax = 3.06480340977| number = 3| status = matching}}
+* {{Template:BelgianStreetAddr| name = Brabandstraat| codeName = Brabandstraat| latmin = 50.9332476536| lonmin = 50.9384863416| latmax = 50.9407740763| lonmax = 3.07083011596| number = 22| status = new}}
+* {{Template:BelgianStreetAddr| name = Broeierijstraat| codeName = Broeierijstraat| latmin = 50.9385795187| lonmin = 50.938796859| latmax = 50.9389069148| lonmax = 3.06571010905| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Brouwerijstraat| codeName = Brouwerijstraat| latmin = 50.9518682878| lonmin = 50.9571571299| latmax = 50.9578599064| lonmax = 3.04788393483| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Bruggestraat| codeName = Bruggestraat| latmin = 50.9743373893| lonmin = 50.9743971504| latmax = 50.9818101683| lonmax = 3.0256289589| number = 73| status = new}}
+* {{Template:BelgianStreetAddr| name = Bultekotstraat| codeName = Bultekotstraat| latmin = 50.9400010299| lonmin = 50.9400010299| latmax = 50.9414493706| lonmax = 2.98632401405| number = 5| status = new}}
+
+===C===
+* {{Template:BelgianStreetAddr| name = Cardijnlaan| codeName = Cardijnlaan| latmin = 50.9730191986| lonmin = 50.9732561301| latmax = 50.975469573| lonmax = 3.00775881138| number = 13| status = new}}
+* {{Template:BelgianStreetAddr| name = Charles Ampestraat| codeName = CharlesAmpestraat| latmin = 50.9784712885| lonmin = 50.9792575117| latmax = 50.9798142491| lonmax = 3.01308651326| number = 27| status = new}}
+* {{Template:BelgianStreetAddr| name = Cockstraat| codeName = Cockstraat| latmin = 50.9382087167| lonmin = 50.9403271178| latmax = 50.9409018113| lonmax = 3.05661494623| number = 29| status = new}}
+* {{Template:BelgianStreetAddr| name = Colliemolenstraat| codeName = Colliemolenstraat| latmin = 50.9262653213| lonmin = 50.9274058831| latmax = 50.9306897868| lonmax = 3.07358254925| number = 31| status = new}}
+* {{Template:BelgianStreetAddr| name = Corbystraat| codeName = Corbystraat| latmin = 50.9544515056| lonmin = 50.9551769883| latmax = 50.9572856907| lonmax = 2.97480571757| number = 11| status = new}}
+* {{Template:BelgianStreetAddr| name = Cortonstraat| codeName = Cortonstraat| latmin = 50.9274040785| lonmin = 50.9305335916| latmax = 50.9305335916| lonmax = 3.04761357239| number = 3| status = new}}
+
+===D===
+* {{Template:BelgianStreetAddr| name = Dammaertstraat| codeName = Dammaertstraat| latmin = 50.9545403318| lonmin = 50.9576550237| latmax = 50.9619865252| lonmax = 3.04030838017| number = 11| status = new}}
+* {{Template:BelgianStreetAddr| name = De Rootputten| codeName = DeRootputten| latmin = 50.933496079| lonmin = 50.9339925972| latmax = 50.9356424173| lonmax = 3.05663108188| number = 5| status = new}}
+* {{Template:BelgianStreetAddr| name = Diksmuidesteenweg| codeName = Diksmuidesteenweg| latmin = 50.9566931089| lonmin = 50.9610991782| latmax = 50.9611670575| lonmax = 3.08180303952| number = 35| status = new}}
+* {{Template:BelgianStreetAddr| name = Diksmuidestraat| codeName = Diksmuidestraat| latmin = 50.975522097| lonmin = 50.980225766| latmax = 50.9902422987| lonmax = 3.0126946978| number = 162| status = new}}
+* {{Template:BelgianStreetAddr| name = Doornkouter| codeName = Doornkouter| latmin = 50.9430298517| lonmin = 50.9438744487| latmax = 50.9443596342| lonmax = 3.0782904524| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Dorpsplein| codeName = Dorpsplein| latmin = 50.9400375723| lonmin = 50.9400375723| latmax = 50.9405711584| lonmax = 3.05933897122| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Dorpsstraat| codeName = Dorpsstraat| latmin = 50.9284191404| lonmin = 50.9329172514| latmax = 50.9339042895| lonmax = 3.01358513427| number = 91| status = new}}
+* {{Template:BelgianStreetAddr| name = Dosselstraat| codeName = Dosselstraat| latmin = 50.9249310431| lonmin = 50.9271026962| latmax = 50.9278070137| lonmax = 3.01265688385| number = 8| status = new}}
+* {{Template:BelgianStreetAddr| name = Draversstraat| codeName = Draversstraat| latmin = 50.9729473215| lonmin = 50.9731133662| latmax = 50.9735360236| lonmax = 3.02380753908| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Drevestraat| codeName = Drevestraat| latmin = 50.9349239092| lonmin = 50.9471858248| latmax = 50.9539559812| lonmax = 3.00566480508| number = 27| status = new}}
+
+===E===
+* {{Template:BelgianStreetAddr| name = Elisabethlaan| codeName = Elisabethlaan| latmin = 50.9776252286| lonmin = 50.9783593616| latmax = 50.9785635189| lonmax = 3.01268359436| number = 17| status = new}}
+* {{Template:BelgianStreetAddr| name = Engels Hof| codeName = EngelsHof| latmin = 50.9427875763| lonmin = 50.9428066691| latmax = 50.9432289206| lonmax = 3.06593976975| number = 12| status = new}}
+
+===F===
+* {{Template:BelgianStreetAddr| name = Fabiolalaan| codeName = Fabiolalaan| latmin = 50.978466102| lonmin = 50.9785579313| latmax = 50.9792595643| lonmax = 3.01552611833| number = 15| status = new}}
+* {{Template:BelgianStreetAddr| name = Fazantstraat| codeName = Fazantstraat| latmin = 50.9390635019| lonmin = 50.9390635019| latmax = 50.9395400109| lonmax = 3.06506636166| number = 5| status = matching}}
+* {{Template:BelgianStreetAddr| name = Filiplaan| codeName = Filiplaan| latmin = 50.9788795613| lonmin = 50.9788795613| latmax = 50.9790891983| lonmax = 3.01285703413| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Filip van Arteveldestraat| codeName = FilipvanArteveldestraat| latmin = 50.9327882375| lonmin = 50.9330254162| latmax = 50.9336080848| lonmax = 3.0154830115| number = 18| status = new}}
+* {{Template:BelgianStreetAddr| name = Foncieregoedstraat| codeName = Foncieregoedstraat| latmin = 50.9259016899| lonmin = 50.9325308452| latmax = 50.9340292122| lonmax = 3.00739169288| number = 15| status = new}}
+* {{Template:BelgianStreetAddr| name = Frambozenweg| codeName = Frambozenweg| latmin = 50.9342658132| lonmin = 50.9343081426| latmax = 50.9347955436| lonmax = 3.01564677929| number = 15| status = new}}
+* {{Template:BelgianStreetAddr| name = Franse Dreef| codeName = FranseDreef| latmin = 50.9584968786| lonmin = 50.9597172582| latmax = 50.9605340635| lonmax = 2.97539231607| number = 4| status = new}}
+
+===G===
+* {{Template:BelgianStreetAddr| name = G. Gezellestraat| codeName = GGezellestraat| latmin = 50.9389662638| lonmin = 50.9397282453| latmax = 50.9400944832| lonmax = 3.06003361891| number = 22| status = new}}
+* {{Template:BelgianStreetAddr| name = Galgestraat| codeName = Galgestraat| latmin = 50.9533130933| lonmin = 50.9533130933| latmax = 50.9533130933| lonmax = 3.04972868121| number = 1| status = new}}
+* {{Template:BelgianStreetAddr| name = Gemeenhofstraat| codeName = Gemeenhofstraat| latmin = 50.9473260975| lonmin = 50.9477966155| latmax = 50.9513795395| lonmax = 3.08319796038| number = 34| status = new}}
+* {{Template:BelgianStreetAddr| name = Gladiolenweg| codeName = Gladiolenweg| latmin = 50.9753791362| lonmin = 50.9760454204| latmax = 50.9766275401| lonmax = 3.00927720223| number = 24| status = new}}
+* {{Template:BelgianStreetAddr| name = Glasstraat| codeName = Glasstraat| latmin = 50.9720928671| lonmin = 50.9723511602| latmax = 50.9725209146| lonmax = 3.01552767051| number = 7| status = new}}
+* {{Template:BelgianStreetAddr| name = Groenestraat| codeName = Groenestraat| latmin = 50.9296808493| lonmin = 50.9312555542| latmax = 50.9367395582| lonmax = 3.08087139278| number = 18| status = new}}
+* {{Template:BelgianStreetAddr| name = Grote Veldstraat| codeName = GroteVeldstraat| latmin = 50.9441172315| lonmin = 50.9636627114| latmax = 50.9729307813| lonmax = 3.02734221879| number = 164| status = new}}
+* {{Template:BelgianStreetAddr| name = Guido Gezelleplein| codeName = GuidoGezelleplein| latmin = 50.9747657155| lonmin = 50.9753582127| latmax = 50.9755293053| lonmax = 3.01559395764| number = 18| status = new}}
+
+===H===
+* {{Template:BelgianStreetAddr| name = Handzamestraat| codeName = Handzamestraat| latmin = 50.9821301617| lonmin = 50.9899068247| latmax = 50.9937794868| lonmax = 3.0113984301| number = 16| status = new}}
+* {{Template:BelgianStreetAddr| name = Haringstraat| codeName = Haringstraat| latmin = 50.9219598754| lonmin = 50.9248505738| latmax = 50.9248505738| lonmax = 3.0058108187| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Hazelaarweg| codeName = Hazelaarweg| latmin = 50.9358811395| lonmin = 50.936065793| latmax = 50.9364110324| lonmax = 3.01567598752| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Hogeschuurstraat| codeName = Hogeschuurstraat| latmin = 50.9767459819| lonmin = 50.9781749698| latmax = 50.9794270582| lonmax = 3.0085097587| number = 33| status = new}}
+* {{Template:BelgianStreetAddr| name = Hogestraat| codeName = Hogestraat| latmin = 50.9815181547| lonmin = 50.9866936047| latmax = 50.9877576363| lonmax = 2.99798431343| number = 47| status = new}}
+* {{Template:BelgianStreetAddr| name = Hoogledestraat| codeName = Hoogledestraat| latmin = 50.9365076377| lonmin = 50.9407016284| latmax = 50.9407886265| lonmax = 3.02084094003| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Hospitaalstraat| codeName = Hospitaalstraat| latmin = 50.969740529| lonmin = 50.971798204| latmax = 50.9724138525| lonmax = 3.00860089325| number = 21| status = new}}
+* {{Template:BelgianStreetAddr| name = Houthulststraat| codeName = Houthulststraat| latmin = 50.9688242103| lonmin = 50.9717372622| latmax = 50.9729467767| lonmax = 3.00782470809| number = 106| status = new}}
+* {{Template:BelgianStreetAddr| name = Huisdrevestraat| codeName = Huisdrevestraat| latmin = 50.9450466423| lonmin = 50.9454645602| latmax = 50.9462092734| lonmax = 3.08788215344| number = 13| status = new}}
+* {{Template:BelgianStreetAddr| name = Hyndrickxbosstraat| codeName = Hyndrickxbosstraat| latmin = 50.9186234392| lonmin = 50.9195338084| latmax = 50.9218869371| lonmax = 3.00031574037| number = 3| status = new}}
+
+===I===
+* {{Template:BelgianStreetAddr| name = Ieper Heirweg| codeName = IeperHeirweg| latmin = 50.9425490618| lonmin = 50.9461842557| latmax = 50.9467221878| lonmax = 2.99282188136| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Ieperstraat| codeName = Ieperstraat| latmin = 50.950133584| lonmin = 50.9709397306| latmax = 50.9743648908| lonmax = 3.01480415397| number = 175| status = new}}
+
+===K===
+* {{Template:BelgianStreetAddr| name = Kampstraat| codeName = Kampstraat| latmin = 50.9495322335| lonmin = 50.9527770801| latmax = 50.9537937018| lonmax = 2.97950931751| number = 31| status = new}}
+* {{Template:BelgianStreetAddr| name = Kapelleriestraat| codeName = Kapelleriestraat| latmin = 50.972240576| lonmin = 50.9744638823| latmax = 50.9747397987| lonmax = 3.0133693347| number = 59| status = new}}
+* {{Template:BelgianStreetAddr| name = Kapstraat| codeName = Kapstraat| latmin = 50.9467462702| lonmin = 50.9479701542| latmax = 50.9490380039| lonmax = 3.05662084173| number = 7| status = matching}}
+* {{Template:BelgianStreetAddr| name = Karabiniersstraat| codeName = Karabiniersstraat| latmin = 50.9298587428| lonmin = 50.9298587428| latmax = 50.9307967894| lonmax = 3.01362563605| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Kastanjeweg| codeName = Kastanjeweg| latmin = 50.9347436755| lonmin = 50.9347913798| latmax = 50.9353155411| lonmax = 3.01421438453| number = 8| status = new}}
+* {{Template:BelgianStreetAddr| name = Kasteeldreve| codeName = Kasteeldreve| latmin = 50.9467543644| lonmin = 50.9467543644| latmax = 50.9510866996| lonmax = 3.01077565479| number = 5| status = new}}
+* {{Template:BelgianStreetAddr| name = Kasteelstraat| codeName = Kasteelstraat| latmin = 50.9449048807| lonmin = 50.9562485568| latmax = 50.9618997639| lonmax = 3.01010228301| number = 33| status = new}}
+* {{Template:BelgianStreetAddr| name = Kattestraat| codeName = Kattestraat| latmin = 50.9296018914| lonmin = 50.929830354| latmax = 50.9330060809| lonmax = 3.03706312542| number = 66| status = new}}
+* {{Template:BelgianStreetAddr| name = Keiaardstraat| codeName = Keiaardstraat| latmin = 50.9408924347| lonmin = 50.9424326653| latmax = 50.9424326653| lonmax = 3.02178943932| number = 3| status = new}}
+* {{Template:BelgianStreetAddr| name = Kerkhofblommenstraat| codeName = Kerkhofblommenstraat| latmin = 50.9708417572| lonmin = 50.9717694568| latmax = 50.9747829327| lonmax = 3.03370815294| number = 52| status = new}}
+* {{Template:BelgianStreetAddr| name = Kerkstraat| codeName = Kerkstraat| latmin = 50.9311392755| lonmin = 50.9311857067| latmax = 50.9316776376| lonmax = 3.01455812224| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Kersenweg| codeName = Kersenweg| latmin = 50.9360022073| lonmin = 50.9361698567| latmax = 50.9365236003| lonmax = 3.0148117095| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Kleine Roeselarestraat| codeName = KleineRoeselarestraat| latmin = 50.9304193454| lonmin = 50.9304193454| latmax = 50.9319695474| lonmax = 2.99906727776| number = 5| status = new}}
+* {{Template:BelgianStreetAddr| name = Kleine Veldstraat| codeName = KleineVeldstraat| latmin = 50.9422329691| lonmin = 50.9718267875| latmax = 50.9726370146| lonmax = 3.01854975224| number = 83| status = new}}
+* {{Template:BelgianStreetAddr| name = Klerkenstraat| codeName = Klerkenstraat| latmin = 50.9785951624| lonmin = 50.9794198894| latmax = 50.9846834566| lonmax = 2.99628401368| number = 27| status = new}}
+* {{Template:BelgianStreetAddr| name = Kneukenburgstraat| codeName = Kneukenburgstraat| latmin = 50.9351649792| lonmin = 50.9354134258| latmax = 50.9354134258| lonmax = 2.99229415792| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Koornbloemweg| codeName = Koornbloemweg| latmin = 50.9747120079| lonmin = 50.9750942057| latmax = 50.9758395279| lonmax = 3.00827151642| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Kosterstraat| codeName = Kosterstraat| latmin = 50.9325071968| lonmin = 50.9326329872| latmax = 50.933887454| lonmax = 3.00932925565| number = 11| status = new}}
+* {{Template:BelgianStreetAddr| name = Kouterstraat| codeName = Kouterstraat| latmin = 50.938533971| lonmin = 50.938533971| latmax = 50.9389211039| lonmax = 3.0599866124| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Krommen Bosweg| codeName = KrommenBosweg| latmin = 50.9347696891| lonmin = 50.9358350858| latmax = 50.9360466441| lonmax = 3.01051553587| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Kruisstraat| codeName = Kruisstraat| latmin = 50.9332558487| lonmin = 50.9339835138| latmax = 50.9339835138| lonmax = 3.02984012401| number = 3| status = new}}
+
+===L===
+* {{Template:BelgianStreetAddr| name = Landweg| codeName = Landweg| latmin = 50.964336348| lonmin = 50.9648363173| latmax = 50.9648363173| lonmax = 2.98185866016| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Langemarkstraat| codeName = Langemarkstraat| latmin = 50.9466275347| lonmin = 50.9490257881| latmax = 50.9493584319| lonmax = 2.97975721758| number = 36| status = new}}
+* {{Template:BelgianStreetAddr| name = Leenstraat| codeName = Leenstraat| latmin = 50.9266370885| lonmin = 50.9272546735| latmax = 50.9281595767| lonmax = 3.03263789219| number = 9| status = new}}
+* {{Template:BelgianStreetAddr| name = Leeuwerikstraat| codeName = Leeuwerikstraat| latmin = 50.9392659333| lonmin = 50.9397483227| latmax = 50.9398820266| lonmax = 3.06655110432| number = 9| status = matching}}
+* {{Template:BelgianStreetAddr| name = Lelieweg| codeName = Lelieweg| latmin = 50.9739977441| lonmin = 50.9744316129| latmax = 50.9745388725| lonmax = 3.00847213681| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Leopoldlaan| codeName = Leopoldlaan| latmin = 50.9775388697| lonmin = 50.9785639315| latmax = 50.9805392019| lonmax = 3.01527644176| number = 53| status = new}}
+* {{Template:BelgianStreetAddr| name = Lepelstraat| codeName = Lepelstraat| latmin = 50.9406987361| lonmin = 50.9413288966| latmax = 50.9413392869| lonmax = 3.05886014428| number = 30| status = new}}
+* {{Template:BelgianStreetAddr| name = Lijsterstraat| codeName = Lijsterstraat| latmin = 50.9405485705| lonmin = 50.9409462738| latmax = 50.9410026773| lonmax = 3.06768437574| number = 12| status = matching}}
+* {{Template:BelgianStreetAddr| name = Lindestraat| codeName = Lindestraat| latmin = 50.9602630832| lonmin = 50.9604483992| latmax = 50.9629762196| lonmax = 3.03069511575| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Lucasstraat| codeName = Lucasstraat| latmin = 50.9794703225| lonmin = 50.9796849184| latmax = 50.9895360945| lonmax = 3.01670338136| number = 31| status = new}}
+
+===M===
+* {{Template:BelgianStreetAddr| name = Maalderijstraat| codeName = Maalderijstraat| latmin = 50.9796211541| lonmin = 50.979940906| latmax = 50.979940906| lonmax = 3.02193015148| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Makelberghstraat| codeName = Makelberghstraat| latmin = 50.9531420261| lonmin = 50.9531420261| latmax = 50.9543845716| lonmax = 2.98499742513| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Mandelstraat| codeName = Mandelstraat| latmin = 50.9413343121| lonmin = 50.9417513226| latmax = 50.9422541968| lonmax = 3.06161491717| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Mannekensstraat| codeName = Mannekensstraat| latmin = 50.9388502874| lonmin = 50.939351021| latmax = 50.939351021| lonmax = 2.98314567056| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Marktplaats| codeName = Marktplaats| latmin = 50.9743101533| lonmin = 50.974414054| latmax = 50.974896248| lonmax = 3.01518172368| number = 8| status = new}}
+* {{Template:BelgianStreetAddr| name = Meiboomstraat| codeName = Meiboomstraat| latmin = 50.9336297567| lonmin = 50.9336297567| latmax = 50.9606060417| lonmax = 3.0643460571| number = 36| status = new}}
+* {{Template:BelgianStreetAddr| name = Merelstraat| codeName = Merelstraat| latmin = 50.9399745738| lonmin = 50.9403352553| latmax = 50.9403840823| lonmax = 3.06802360334| number = 14| status = matching}}
+* {{Template:BelgianStreetAddr| name = Meulebroekenlaan| codeName = Meulebroekenlaan| latmin = 49.2933351651| lonmin = 50.9424996692| latmax = 50.9427336716| lonmax = 3.06367436054| number = 23| status = new}}
+* {{Template:BelgianStreetAddr| name = Meygestraat| codeName = Meygestraat| latmin = 50.9267590996| lonmin = 50.9275769594| latmax = 50.9275769594| lonmax = 2.99398807288| number = 3| status = new}}
+* {{Template:BelgianStreetAddr| name = Mispelweg| codeName = Mispelweg| latmin = 50.9343868947| lonmin = 50.9346179364| latmax = 50.9358126308| lonmax = 3.01500298229| number = 18| status = new}}
+* {{Template:BelgianStreetAddr| name = Moerasstraat| codeName = Moerasstraat| latmin = 50.935809831| lonmin = 50.9359258306| latmax = 50.9383333965| lonmax = 3.07947191882| number = 9| status = new}}
+* {{Template:BelgianStreetAddr| name = Moermansweg| codeName = Moermansweg| latmin = 50.935999047| lonmin = 50.935999047| latmax = 50.9366169048| lonmax = 3.01041199949| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Molenstraat| codeName = Molenstraat| latmin = 50.9594537964| lonmin = 50.962993717| latmax = 50.9667909315| lonmax = 3.00716546078| number = 8| status = new}}
+* {{Template:BelgianStreetAddr| name = Molenwalstraat| codeName = Molenwalstraat| latmin = 50.9707371965| lonmin = 50.9709261649| latmax = 50.9715926878| lonmax = 3.01614627798| number = 20| status = new}}
+* {{Template:BelgianStreetAddr| name = Moorsledestraat| codeName = Moorsledestraat| latmin = 50.923017015| lonmin = 50.9237109452| latmax = 50.9253642119| lonmax = 3.05659099921| number = 5| status = matching}}
+* {{Template:BelgianStreetAddr| name = Moststraat| codeName = Moststraat| latmin = 50.94047687| lonmin = 50.9414809882| latmax = 50.9419968238| lonmax = 3.07785353105| number = 14| status = new}}
+
+===N===
+* {{Template:BelgianStreetAddr| name = Nachtegaalstraat| codeName = Nachtegaalstraat| latmin = 50.9392992843| lonmin = 50.9397775881| latmax = 50.9398133727| lonmax = 3.06829843172| number = 12| status = matching}}
+* {{Template:BelgianStreetAddr| name = Neerhofweg| codeName = Neerhofweg| latmin = 50.9351068655| lonmin = 50.9351068655| latmax = 50.9359897239| lonmax = 3.00577274236| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Nieuwkerkhofstraat| codeName = Nieuwkerkhofstraat| latmin = 50.9545769358| lonmin = 50.9579027507| latmax = 50.9579027507| lonmax = 3.06825959543| number = 5| status = new}}
+* {{Template:BelgianStreetAddr| name = Nijverheidstraat| codeName = Nijverheidstraat| latmin = 50.9817620408| lonmin = 50.9846374436| latmax = 50.9850542529| lonmax = 3.00619992572| number = 12| status = new}}
+* {{Template:BelgianStreetAddr| name = Noordstraat| codeName = Noordstraat| latmin = 50.9428419491| lonmin = 50.9439016573| latmax = 50.9439914411| lonmax = 3.06631245831| number = 35| status = matching}}
+
+===O===
+* {{Template:BelgianStreetAddr| name = Ommegang Noord| codeName = OmmegangNoord| latmin = 50.9336511144| lonmin = 50.9339904178| latmax = 50.9351274216| lonmax = 3.01524615142| number = 49| status = new}}
+* {{Template:BelgianStreetAddr| name = Ommegang Oost| codeName = OmmegangOost| latmin = 50.9301766772| lonmin = 50.9318092458| latmax = 50.9333605572| lonmax = 3.01687406422| number = 40| status = new}}
+* {{Template:BelgianStreetAddr| name = Ommegang West| codeName = OmmegangWest| latmin = 49.2933351651| lonmin = 50.9307505137| latmax = 50.9335788471| lonmax = 3.01036259001| number = 23| status = new}}
+* {{Template:BelgianStreetAddr| name = Ommegang Zuid| codeName = OmmegangZuid| latmin = 50.927360217| lonmin = 50.9294006012| latmax = 50.9297363765| lonmax = 3.01444115587| number = 27| status = new}}
+* {{Template:BelgianStreetAddr| name = Ondankstraat| codeName = Ondankstraat| latmin = 50.9426226936| lonmin = 50.9431778926| latmax = 50.9511820995| lonmax = 3.07325339146| number = 32| status = new}}
+* {{Template:BelgianStreetAddr| name = Ondankweg| codeName = Ondankweg| latmin = 50.9447912005| lonmin = 50.9447912005| latmax = 50.9447912005| lonmax = 3.07344006196| number = 1| status = matching}}
+* {{Template:BelgianStreetAddr| name = Ontmijnersstraat| codeName = Ontmijnersstraat| latmin = 50.9494474397| lonmin = 50.9494474397| latmax = 50.9498004664| lonmax = 2.97448117892| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Oostnieuwkerkestraat| codeName = Oostnieuwkerkestraat| latmin = 50.9556387458| lonmin = 50.9583426485| latmax = 50.9621596042| lonmax = 3.04150135503| number = 16| status = new}}
+* {{Template:BelgianStreetAddr| name = Ooststraat| codeName = Ooststraat| latmin = 50.9725015015| lonmin = 50.9735883164| latmax = 50.9757397425| lonmax = 3.02244824296| number = 23| status = new}}
+* {{Template:BelgianStreetAddr| name = Oude Passendalestraat| codeName = OudePassendalestraat| latmin = 50.9248518096| lonmin = 50.9248518096| latmax = 50.9291567805| lonmax = 3.01906836844| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Oude Tramweg| codeName = OudeTramweg| latmin = 50.9728728453| lonmin = 50.973488205| latmax = 50.9737776462| lonmax = 3.01845688988| number = 18| status = new}}
+
+===P===
+* {{Template:BelgianStreetAddr| name = Paalweg| codeName = Paalweg| latmin = 50.9432204138| lonmin = 50.9460387276| latmax = 50.9478303422| lonmax = 3.08008815312| number = 18| status = new}}
+* {{Template:BelgianStreetAddr| name = Passendalesteenweg| codeName = Passendalesteenweg| latmin = 50.9221883458| lonmin = 50.9275090674| latmax = 50.9287514705| lonmax = 3.01578315443| number = 27| status = new}}
+* {{Template:BelgianStreetAddr| name = Paul Billietstraat| codeName = PaulBillietstraat| latmin = 50.9723396649| lonmin = 50.9727090848| latmax = 50.9728531178| lonmax = 3.0194123454| number = 18| status = new}}
+* {{Template:BelgianStreetAddr| name = Pauwstraat| codeName = Pauwstraat| latmin = 50.9380932792| lonmin = 50.9392559706| latmax = 50.9397102266| lonmax = 3.06454773139| number = 24| status = matching}}
+* {{Template:BelgianStreetAddr| name = Pelikaanstraat| codeName = Pelikaanstraat| latmin = 50.9382721515| lonmin = 50.9384472531| latmax = 50.9391562843| lonmax = 3.06142972121| number = 11| status = matching}}
+* {{Template:BelgianStreetAddr| name = Penninckstraat| codeName = Penninckstraat| latmin = 50.9385109118| lonmin = 50.9385109118| latmax = 50.9392064824| lonmax = 3.0686622968| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Pereboomstraat| codeName = Pereboomstraat| latmin = 50.9324938674| lonmin = 50.9324938674| latmax = 50.9324938674| lonmax = 3.0010882487| number = 1| status = new}}
+* {{Template:BelgianStreetAddr| name = Philemon Sabbestraat| codeName = PhilemonSabbestraat| latmin = 50.9760505112| lonmin = 50.9762938942| latmax = 50.9778521297| lonmax = 3.01923401042| number = 32| status = new}}
+* {{Template:BelgianStreetAddr| name = Poelkapellestraat| codeName = Poelkapellestraat| latmin = 50.9232358004| lonmin = 50.9277547677| latmax = 50.9280749302| lonmax = 3.01025216109| number = 57| status = new}}
+* {{Template:BelgianStreetAddr| name = Polderinstraat| codeName = Polderinstraat| latmin = 50.9428137497| lonmin = 50.9448176693| latmax = 50.9490776394| lonmax = 3.08360754902| number = 8| status = new}}
+* {{Template:BelgianStreetAddr| name = Polenstraat| codeName = Polenstraat| latmin = 50.9392044379| lonmin = 50.9394278555| latmax = 50.9401621192| lonmax = 3.06317356566| number = 18| status = matching}}
+* {{Template:BelgianStreetAddr| name = Processiestraat| codeName = Processiestraat| latmin = 50.9649662135| lonmin = 50.9682293986| latmax = 50.9683491121| lonmax = 3.03565597725| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Provinciebaan| codeName = Provinciebaan| latmin = 50.933444273| lonmin = 50.9586497595| latmax = 50.9608161047| lonmax = 3.05612255195| number = 76| status = new}}
+
+===R===
+* {{Template:BelgianStreetAddr| name = Regentlaan| codeName = Regentlaan| latmin = 50.9796560157| lonmin = 50.9796560157| latmax = 50.9800070481| lonmax = 3.01421260876| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Reigerstraat| codeName = Reigerstraat| latmin = 50.938592699| lonmin = 50.9388252549| latmax = 50.9391749409| lonmax = 3.06194940753| number = 10| status = matching}}
+* {{Template:BelgianStreetAddr| name = Rekestraat| codeName = Rekestraat| latmin = 50.9506700754| lonmin = 50.9548605692| latmax = 50.969301546| lonmax = 2.98131132779| number = 26| status = new}}
+* {{Template:BelgianStreetAddr| name = Renaat Desmedtstraat| codeName = RenaatDesmedtstraat| latmin = 50.9800718319| lonmin = 50.991657659| latmax = 50.9983021514| lonmax = 3.02742278551| number = 15| status = new}}
+* {{Template:BelgianStreetAddr| name = Rietbekestraat| codeName = Rietbekestraat| latmin = 50.932082474| lonmin = 50.932082474| latmax = 50.9325635236| lonmax = 3.01520777711| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Rijselstraat| codeName = Rijselstraat| latmin = 50.9524628198| lonmin = 50.9532919011| latmax = 50.9532919011| lonmax = 3.08306610583| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Roeselarestraat| codeName = Roeselarestraat| latmin = 50.9400778139| lonmin = 50.9422360027| latmax = 50.944708367| lonmax = 3.08735401836| number = 247| status = new}}
+* {{Template:BelgianStreetAddr| name = Romenstraat| codeName = Romenstraat| latmin = 50.9362539767| lonmin = 50.9362539767| latmax = 50.9381981842| lonmax = 3.02365662258| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Roodkruisstraat| codeName = Roodkruisstraat| latmin = 50.93156749| lonmin = 50.93156749| latmax = 50.9317376186| lonmax = 3.05688453385| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Roterijstraat| codeName = Roterijstraat| latmin = 50.9372550829| lonmin = 50.9378571392| latmax = 50.9383862649| lonmax = 3.06543760415| number = 15| status = matching}}
+* {{Template:BelgianStreetAddr| name = Rozestraat| codeName = Rozestraat| latmin = 50.9347571105| lonmin = 50.9347571105| latmax = 50.9383456006| lonmax = 3.04429821846| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Rysseveldstraat| codeName = Rysseveldstraat| latmin = 50.9657872729| lonmin = 50.9693467458| latmax = 50.97106485| lonmax = 3.01908776593| number = 84| status = new}}
+
+===S===
+* {{Template:BelgianStreetAddr| name = Schierveldestraat| codeName = Schierveldestraat| latmin = 50.951000721| lonmin = 50.9523349242| latmax = 50.9541810704| lonmax = 3.08537713498| number = 16| status = new}}
+* {{Template:BelgianStreetAddr| name = Schuttersstraat| codeName = Schuttersstraat| latmin = 50.9732948346| lonmin = 50.9737951176| latmax = 50.9742115261| lonmax = 3.02391803| number = 18| status = new}}
+* {{Template:BelgianStreetAddr| name = Sint Elooistraat| codeName = SintElooistraat| latmin = 50.9341119747| lonmin = 50.9341446646| latmax = 50.9499420901| lonmax = 3.00803238465| number = 44| status = new}}
+* {{Template:BelgianStreetAddr| name = Sint Jansstraat| codeName = SintJansstraat| latmin = 50.9614113588| lonmin = 50.9740436597| latmax = 50.9743532209| lonmax = 3.04444324129| number = 164| status = new}}
+* {{Template:BelgianStreetAddr| name = Sint-Patricksstraat| codeName = SintPatricksstraat| latmin = 50.9359782826| lonmin = 50.9359782826| latmax = 50.9374395321| lonmax = 3.06448982974| number = 32| status = matching}}
+* {{Template:BelgianStreetAddr| name = Sleihagestraat| codeName = Sleihagestraat| latmin = 50.9407487234| lonmin = 50.9563584068| latmax = 50.9608068559| lonmax = 3.06146633697| number = 85| status = new}}
+* {{Template:BelgianStreetAddr| name = Slijperstraat| codeName = Slijperstraat| latmin = 50.931321543| lonmin = 50.9342626669| latmax = 50.9387860371| lonmax = 3.06563370477| number = 75| status = new}}
+* {{Template:BelgianStreetAddr| name = Soetestraat| codeName = Soetestraat| latmin = 50.9552233872| lonmin = 50.9635347875| latmax = 50.9697496781| lonmax = 2.98808903006| number = 37| status = new}}
+* {{Template:BelgianStreetAddr| name = Spanjestraat| codeName = Spanjestraat| latmin = 50.9254672405| lonmin = 50.9318468082| latmax = 50.9394598159| lonmax = 3.05877924035| number = 72| status = new}}
+* {{Template:BelgianStreetAddr| name = Spechtstraat| codeName = Spechtstraat| latmin = 50.941191885| lonmin = 50.941191885| latmax = 50.9412954919| lonmax = 3.06731199307| number = 8| status = matching}}
+* {{Template:BelgianStreetAddr| name = Sprietstraat| codeName = Sprietstraat| latmin = 50.9264774088| lonmin = 50.9320397719| latmax = 50.9344712947| lonmax = 2.98758237229| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Stampkotstraat| codeName = Stampkotstraat| latmin = 50.975342124| lonmin = 50.9817093985| latmax = 50.98495911| lonmax = 3.00280327635| number = 20| status = new}}
+* {{Template:BelgianStreetAddr| name = Statiestraat| codeName = Statiestraat| latmin = 50.9746640731| lonmin = 50.9750246886| latmax = 50.9756465494| lonmax = 3.01377499071| number = 34| status = new}}
+* {{Template:BelgianStreetAddr| name = Steenovendreef| codeName = Steenovendreef| latmin = 50.9340386965| lonmin = 50.9359672132| latmax = 50.9367982668| lonmax = 3.07803837133| number = 13| status = new}}
+* {{Template:BelgianStreetAddr| name = Sussexstraat| codeName = Sussexstraat| latmin = 50.9360342206| lonmin = 50.9365449063| latmax = 50.9365590966| lonmax = 3.01890519369| number = 12| status = new}}
+
+===T===
+* {{Template:BelgianStreetAddr| name = Ter Eike| codeName = TerEike| latmin = 50.9787006303| lonmin = 50.9806391472| latmax = 50.9815660083| lonmax = 3.00610519674| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Tiendenbergstraat| codeName = Tiendenbergstraat| latmin = 50.9330011477| lonmin = 50.933249363| latmax = 50.9337247568| lonmax = 3.01149195073| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Tolstraat| codeName = Tolstraat| latmin = 50.9739300388| lonmin = 50.9749552962| latmax = 50.9813947726| lonmax = 2.98733889471| number = 20| status = new}}
+* {{Template:BelgianStreetAddr| name = Tulpenweg| codeName = Tulpenweg| latmin = 50.9763974786| lonmin = 50.976993591| latmax = 50.9774525728| lonmax = 3.00968956839| number = 25| status = new}}
+
+===V===
+* {{Template:BelgianStreetAddr| name = Valkstraat| codeName = Valkstraat| latmin = 50.9375354143| lonmin = 50.9377351644| latmax = 50.9383273331| lonmax = 3.06199287829| number = 16| status = matching}}
+* {{Template:BelgianStreetAddr| name = Veldstraat| codeName = Veldstraat| latmin = 50.929853573| lonmin = 50.9337256384| latmax = 50.9352125807| lonmax = 3.04949290281| number = 32| status = new}}
+* {{Template:BelgianStreetAddr| name = Vergeldermolenstraat| codeName = Vergeldermolenstraat| latmin = 50.9520090569| lonmin = 50.9584664294| latmax = 50.9586385726| lonmax = 3.07542446597| number = 21| status = matching}}
+* {{Template:BelgianStreetAddr| name = Vijfwegenstraat| codeName = Vijfwegenstraat| latmin = 50.9322934882| lonmin = 50.9325869712| latmax = 50.9337660633| lonmax = 3.01174161936| number = 28| status = new}}
+* {{Template:BelgianStreetAddr| name = Vijverbosstraat| codeName = Vijverbosstraat| latmin = 50.9329421158| lonmin = 50.9362987873| latmax = 50.9386401416| lonmax = 3.03737368922| number = 13| status = new}}
+* {{Template:BelgianStreetAddr| name = Vijverdamstraat| codeName = Vijverdamstraat| latmin = 50.9264401176| lonmin = 50.9264401176| latmax = 50.9271363261| lonmax = 3.06928685874| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Vinkstraat| codeName = Vinkstraat| latmin = 50.939685658| lonmin = 50.939949675| latmax = 50.9403045376| lonmax = 3.06618311928| number = 12| status = matching}}
+* {{Template:BelgianStreetAddr| name = Visweg| codeName = Visweg| latmin = 50.9869499663| lonmin = 50.9874785313| latmax = 50.9881999836| lonmax = 2.99205254428| number = 15| status = new}}
+* {{Template:BelgianStreetAddr| name = Vlasbloemstraat| codeName = Vlasbloemstraat| latmin = 50.9368657531| lonmin = 50.9373375647| latmax = 50.9381180148| lonmax = 3.06371075335| number = 24| status = new}}
+* {{Template:BelgianStreetAddr| name = Vlasstraat| codeName = Vlasstraat| latmin = 50.9368992377| lonmin = 50.9370704443| latmax = 50.9376047272| lonmax = 3.06623019197| number = 9| status = new}}
+* {{Template:BelgianStreetAddr| name = Voermanstraat| codeName = Voermanstraat| latmin = 50.9485260268| lonmin = 50.9486068653| latmax = 50.9497928304| lonmax = 3.03700638741| number = 10| status = new}}
+* {{Template:BelgianStreetAddr| name = Vredestraat| codeName = Vredestraat| latmin = 50.9727941849| lonmin = 50.9732247049| latmax = 50.9732247049| lonmax = 3.01593735704| number = 21| status = new}}
+* {{Template:BelgianStreetAddr| name = Vrijbosstraat| codeName = Vrijbosstraat| latmin = 50.9702244713| lonmin = 50.9753854042| latmax = 50.9814691048| lonmax = 2.97716176651| number = 25| status = new}}
+* {{Template:BelgianStreetAddr| name = Vuilpanstraat| codeName = Vuilpanstraat| latmin = 50.9878743222| lonmin = 50.9893093758| latmax = 50.9905394636| lonmax = 2.99905849621| number = 14| status = new}}
+* {{Template:BelgianStreetAddr| name = Vyvestraat| codeName = Vyvestraat| latmin = 50.9363841625| lonmin = 50.9411073571| latmax = 50.9418983663| lonmax = 3.08212173393| number = 38| status = new}}
+
+===W===
+* {{Template:BelgianStreetAddr| name = Wallebrugstraat| codeName = Wallebrugstraat| latmin = 50.9468936275| lonmin = 50.9484926224| latmax = 50.9484926224| lonmax = 3.06967335093| number = 4| status = new}}
+* {{Template:BelgianStreetAddr| name = Wallemolenstraat| codeName = Wallemolenstraat| latmin = 50.9178396738| lonmin = 50.9183669737| latmax = 50.920992277| lonmax = 2.99407225396| number = 8| status = matching}}
+* {{Template:BelgianStreetAddr| name = Walstraat| codeName = Walstraat| latmin = 50.9618943082| lonmin = 50.9686062353| latmax = 50.9781981293| lonmax = 2.99854337553| number = 26| status = new}}
+* {{Template:BelgianStreetAddr| name = Wankaardelaan| codeName = Wankaardelaan| latmin = 50.9718011363| lonmin = 50.9737650231| latmax = 50.9747968637| lonmax = 3.02107936181| number = 55| status = new}}
+* {{Template:BelgianStreetAddr| name = Warandestraat| codeName = Warandestraat| latmin = 50.9532699202| lonmin = 50.953582943| latmax = 50.9589161289| lonmax = 3.023987065| number = 17| status = new}}
+* {{Template:BelgianStreetAddr| name = Watervlietstraat| codeName = Watervlietstraat| latmin = 50.9351196254| lonmin = 50.935276312| latmax = 50.93876296| lonmax = 2.98613159733| number = 5| status = new}}
+* {{Template:BelgianStreetAddr| name = Westrozebekestraat| codeName = Westrozebekestraat| latmin = 50.9389600811| lonmin = 50.9430286228| latmax = 50.9442813986| lonmax = 3.05605405011| number = 78| status = new}}
+* {{Template:BelgianStreetAddr| name = Wielewaalstraat| codeName = Wielewaalstraat| latmin = 50.9405332686| lonmin = 50.9412151898| latmax = 50.9413668516| lonmax = 3.06629630933| number = 17| status = matching}}
+* {{Template:BelgianStreetAddr| name = Withoekstraat| codeName = Withoekstraat| latmin = 50.9393233016| lonmin = 50.9393233016| latmax = 50.9402856882| lonmax = 3.08634260086| number = 2| status = new}}
+* {{Template:BelgianStreetAddr| name = Wulfwinkelstraat| codeName = Wulfwinkelstraat| latmin = 50.9341254176| lonmin = 50.9355255757| latmax = 50.9413374366| lonmax = 3.01394635931| number = 19| status = new}}
+
+===Z===
+* {{Template:BelgianStreetAddr| name = Zeveneeckebosstraat| codeName = Zeveneeckebosstraat| latmin = 50.9366615469| lonmin = 50.9417328304| latmax = 50.9417328304| lonmax = 2.99646617833| number = 3| status = new}}
+* {{Template:BelgianStreetAddr| name = Zuidstraat| codeName = Zuidstraat| latmin = 50.9415446268| lonmin = 50.9415446268| latmax = 50.941786707| lonmax = 3.06624066334| number = 6| status = new}}
+* {{Template:BelgianStreetAddr| name = Zwaluwstraat| codeName = Zwaluwstraat| latmin = 50.9400722445| lonmin = 50.9406923098| latmax = 50.9406923098| lonmax = 3.06506733489| number = 8| status = matching}}
+* {{Template:BelgianStreetAddr| name = Zwijnedreef| codeName = Zwijnedreef| latmin = 50.9302788878| lonmin = 50.93043577| latmax = 50.9307942271| lonmax = 3.05913708687| number = 4| status = new}}
+
+===d===
+* {{Template:BelgianStreetAddr| name = de Carninstraat| codeName = deCarninstraat| latmin = 50.9752181477| lonmin = 50.9759954283| latmax = 50.9782466167| lonmax = 3.01673027718| number = 33| status = new}}
+
+===s===
+* {{Template:BelgianStreetAddr| name = 's Gravenstraat| codeName = sGravenstraat| latmin = 50.9427358421| lonmin = 50.9439389036| latmax = 50.9439389036| lonmax = 3.00172314391| number = 6| status = new}}
+
+[[Category:Postalcodes In Belgium|8840]]

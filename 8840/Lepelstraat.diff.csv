@@ -1,0 +1,5 @@
+lat,lon,addr:street,addr:housenumber,fixme
+50.9412694227,3.05886014428,Lepelstraat,1,
+50.941163197,3.05747680858,Lepelstraat,25A,
+50.9410254,3.0587585,Lepelstraat,2,Address present in CRAB but has no position there
+50.9410102,3.05846,Lepelstraat,6,Address present in CRAB but has no position there

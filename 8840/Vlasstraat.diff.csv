@@ -1,0 +1,4 @@
+lat,lon,addr:street,addr:housenumber,fixme
+50.9370704443,3.06536595673,Vlasstraat,8,
+50.9371154,3.0653026,Vlasstraat,8,10,Address present in OSM. Not found in CRAB
+50.937272,3.0661214,Vlasstraat,4,Address present in OSM. Not found in CRAB
