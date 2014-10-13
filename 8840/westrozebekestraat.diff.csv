@@ -1,0 +1,19 @@
+lat,lon,addr:street,addr:housenumber,fixme
+50.9421986042,3.05493563294,Westrozebekestraat,11,
+50.9420998778,3.05372852474,Westrozebekestraat,16,
+50.9412487789,3.05525294487,Westrozebekestraat,2,
+50.942204601,3.05304380833,Westrozebekestraat,20,
+50.942230852,3.0526500264,Westrozebekestraat,24,
+50.9426602576,3.04802470088,Westrozebekestraat,46,
+50.9426529709,3.04732817429,Westrozebekestraat,50,
+50.9430185897,3.05050499529,Westrozebekestraat,67,
+50.9432284872,3.04802635566,Westrozebekestraat,75,
+50.9389600811,3.03329567301,Westrozebekestraat,76,
+50.9433313684,3.04770070497,Westrozebekestraat,77,
+50.9434022817,3.03625736835,Westrozebekestraat,87,
+50.9430286228,3.04481255811,Westrozebekestraat,A6,
+50.9425078,3.0537924,Westrozebekestraat,25,Address present in CRAB but has no position there
+50.9422795,3.0544105,Westrozebekestraat,21,Address present in OSM. Not found in CRAB
+50.9426375,3.0481856,Westrozebekestraat,44,Address present in CRAB but has no position there
+50.9430472,3.0482382,Westrozebekestraat,73,Address present in CRAB but has no position there
+50.9431123,3.0448607,Westrozebekestraat,64,Address present in OSM. Not found in CRAB

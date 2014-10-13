@@ -1,0 +1,4 @@
+lat,lon,addr:street,addr:housenumber,fixme
+50.932783973,3.06934605501,Groenestraat,12,
+50.9342446108,3.07857131566,Groenestraat,38,
+50.9346816,3.0797468,Groenestraat,564,Address present in OSM. Not found in CRAB
